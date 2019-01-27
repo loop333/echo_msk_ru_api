@@ -3,15 +3,15 @@
 https://echo.msk.ru/api/top.json?fields=all  
   - fields  
 
-https://echo.msk.ru/api/kvs.json?https=1&token=...  
+https://echo.msk.ru/api/kvs.json?https=1&token={T}  
   - token  
   - https  
 
-https://echo.msk.ru/api/subscriptions.json?token=...&fields=all  
+https://echo.msk.ru/api/subscriptions.json?token={T}&fields=all  
   - token  
   - fields  
 
-https://echo.msk.ru/api/saved.json?token=...&https=1&fields=all&per_page=0  
+https://echo.msk.ru/api/saved.json?token={T}&https=1&fields=all&per_page=0  
   - token  
   - https  
   - fields  
@@ -23,7 +23,7 @@ https://echo.msk.ru/api/polls.json?fields=all
 https://echo.msk.ru/api/entries.json?fields=all  
   - fields  
 
-https://echo.msk.ru/api/seen.json?https=1&token=...  
+https://echo.msk.ru/api/seen.json?https=1&token={T}  
   - token  
   - https  
 
