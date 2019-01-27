@@ -2,8 +2,8 @@ Echo of Moscow public API
 
 https://echo.msk.ru/api/top.json  
 https://echo.msk.ru/api/kvs.json  
-  - token
-  - https
+  - token  
+  - https  
 https://echo.msk.ru/api/subscriptions.json  
 https://echo.msk.ru/api/saved.json  
 https://echo.msk.ru/api/polls.json  
