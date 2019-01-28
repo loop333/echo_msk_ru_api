@@ -1,5 +1,7 @@
 **Echo of Moscow public API**
 
+Warning: API doesn't set CORS headers
+
 https://echo.msk.ru/api/top.json?fields=all  
   - fields  
 
