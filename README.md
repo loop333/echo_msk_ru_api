@@ -75,3 +75,8 @@ https://echo.msk.ru/api/entries/{N}.json?fields=all&everything=1
 
 https://echo.msk.ru/api/bcasts/{N}.json?fields=all  
   - fields  
+
+https://echo.msk.ru/search.json?search_cond%5Bquery%5D={}&fields=all
+  - fields 
+  - search_cond[query]
+  
